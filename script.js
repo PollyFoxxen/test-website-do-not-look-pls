@@ -3,7 +3,15 @@ function showIntro() {
     document.getElementById("intro").classList = "paragraf";
 }
 
+function showAbout() {
+    hideAll();
+    document.getElementById("about").classList = "paragraf";
+}
 
+function showResume() {
+    hideAll();
+    document.getElementById("resume").classList = "paragraf";
+}
 
 
 function hideAll() {
