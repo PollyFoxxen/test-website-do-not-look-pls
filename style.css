@@ -27,3 +27,20 @@ img {
 .hide {
     display: none;
 }
+/*irrelevant kommentar*/
+button {
+    color: rgb(38, 41, 43);
+    padding: 25px;
+    font-size: 18px;
+    background-color: rgb(253, 165, 132);
+    border-radius: 50%;
+    margin: 50px;
+    
+}
+
+.menu {
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
