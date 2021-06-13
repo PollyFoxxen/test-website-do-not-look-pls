@@ -23,3 +23,7 @@ img {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+.hide {
+    display: none;
+}
