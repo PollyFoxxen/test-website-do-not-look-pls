@@ -1,4 +1,4 @@
-p.happy   {
+p.happy {
     font-size: 50px;
     color: hotpink;
 }
@@ -8,18 +8,18 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
-p  {
+
+p {
     font-size: 45px;
     color: lightcoral;
 }
+
 .paragraf {
     width: 600px;
     background-color: rgba(255, 255, 255, 0.5);
-    
 }
+
 img {
     background-repeat: no-repeat;
     background-attachment: fixed;
-}   
-
-
+}
