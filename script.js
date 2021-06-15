@@ -19,3 +19,7 @@ function hideAll() {
     document.getElementById("about").classList = "hide";
     document.getElementById("resume").classList = "hide";
 }
+
+function alert1() {
+   window.alert("Hello!");
+}
