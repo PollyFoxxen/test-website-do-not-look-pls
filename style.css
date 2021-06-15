@@ -35,14 +35,18 @@ button {
     background-color: rgb(253, 165, 132);
     border-radius: 50%;
     margin: 50px;
-    box-shadow: 0 9px #999;
-} 
-    
+    box-shadow: 2px 9px #999;
+}
+
+button:hover{
+    transform: translate(2px, 9px);
+    box-shadow: none;
+}
+
 .menu {
     align-items: center;
     width: 100%;
     margin: 0 auto;
     text-align: center;
- }
-
- 
+    position: fixed;
+}
